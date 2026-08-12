@@ -7,7 +7,9 @@ I will gradually add CCNA lab work, documentation, and the results of my work he
 Areas I’m interested in:
 
 ➜ Computer Networks
+
 ➜ Cybersecurity
+
 ➜ System Administration
 
 Contact:
